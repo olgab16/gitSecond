@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c8c7a9d-eaff-4d3d-989f-e79b182da4d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/src/test/java/read/readData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/src/test/java/read/readTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApachePOI/src/test/java/write/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppiumBatch16/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppiumBatch16/src/test/java/appiumIntro/ServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppiumBatch16/src/test/java/gestures/TapAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppiumBatch16/src/test/java/locators/AndroidUIAutomator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppiumBatch16/src/test/java/utils/CommonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppiumBatch16/src/test/resources/ApiDemos-debug-newVersion.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/StefDefs/SlackStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/advanced/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/delete/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/Airports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/FakeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/GameofThrones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/get/StarWars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/AirportAttributesPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/AirportDataPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/AirportPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/ContinentPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/PetStoreCategoryPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/PetStorePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/PlanetsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/SlackMessagePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/SlackPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/pojo/StarWarsCharacterPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/post/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/post/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/post/SerializationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/post/Slack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/put/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/java/api/utils/PayloadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../B16-API/src/test/resources/Slack.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/com/test/automationexercise/stepdefinitions/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/jdbc/JDBCadvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/jdbc/JdbcIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/utils/JdbcUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/test/java/com/test/interviewTask/runners/OrderRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/test/java/utils/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/test/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interview/src/test/java/utils/DriverHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumB16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VRPaHuTus19SIOQ3z9OB5W8yqS" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Git2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Git2" />
+      <module name="GitSecondClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Git2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c8c7a9d-eaff-4d3d-989f-e79b182da4d5" name="Changes" comment="" />
+      <created>1694795984343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694795984343</updated>
+    </task>
+    <servers />
+  </component>
+</project>
