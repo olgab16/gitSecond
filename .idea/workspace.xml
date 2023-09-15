@@ -55,8 +55,10 @@
       <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/jdbc/JdbcIntro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/utils/JdbcUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/passwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Git2.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Interview/configuration.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Interview/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Interview/src/test/java/com/test/interviewTask/runners/OrderRunner.java" afterDir="false" />
@@ -69,7 +71,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
