@@ -55,9 +55,6 @@
       <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/jdbc/JdbcIntro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/java/utils/JdbcUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FrameworkFromScratch2/src/test/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/Homework1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework2/Homework2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Interview/configuration.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Interview/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Interview/src/test/java/com/test/interviewTask/runners/OrderRunner.java" afterDir="false" />
@@ -67,7 +64,7 @@
       <change afterPath="$PROJECT_DIR$/../SeleniumB16/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/olgaPackage/Git3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/olgaPackage/Git3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
